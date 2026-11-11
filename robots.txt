@@ -1,4 +1,6 @@
 User-agent: *
 Disallow: 
 Crawl-delay: 20
-Disallow: /assets/*
+Disallow: /assets/
+Disallow: /projects/
+Sitemap: https://hubtec.pe/sitemap.xml
